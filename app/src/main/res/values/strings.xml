@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MLKitImageLabelling</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="permission_request">The app needs to access files on your device</string>
+
+</resources>
